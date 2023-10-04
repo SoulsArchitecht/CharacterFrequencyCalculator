@@ -1,4 +1,5 @@
 # CharacterFrequencyCalculator Тестовое задание T1 Консалтинг
+ссылка на задание: https://docs.google.com/document/d/1G_bNiKfEWXorOOry79s7UzPTNvYy4tRaYqnUnhPxuiU/edit
 ## Calculate characters frequency in the input string
 Программа считает и сортирует вводимые данные посимвольно сначала по количеству символов в порядке убывания, а затем по старшинству в таблице символов в порядке убывания.
 Диапазон ограничения длинны вводимой строки задается из файла конфигурации.
